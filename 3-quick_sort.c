@@ -1,8 +1,8 @@
 #include "sort.h"
 /**
  * quick_sort - function for quick sort
- * @array - Array being sorted
- * @size - size of array
+ * @array: Array being sorted
+ * @size: size of array
  * Return: Sortel array
  */
 void quick_sort(int *array, size_t size)
